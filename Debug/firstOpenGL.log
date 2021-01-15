@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (firstOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+c:\users\agne\downloads\graphics1cw\main.cpp(86): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(91): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(94): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\agne\downloads\graphics1cw\main.cpp(160): warning C4101: 'y': unreferenced local variable
+c:\users\agne\downloads\graphics1cw\main.cpp(160): warning C4101: 'x': unreferenced local variable
+c:\users\agne\downloads\graphics1cw\main.cpp(231): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(232): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(233): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(242): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(431): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(438): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(517): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\agne\downloads\graphics1cw\main.cpp(553): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\agne\downloads\graphics1cw\main.cpp(617): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\agne\downloads\graphics1cw\main.cpp(623): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(624): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(619): warning C4101: 'ndt': unreferenced local variable
+c:\users\agne\downloads\graphics1cw\main.cpp(618): warning C4101: 'fc': unreferenced local variable
+c:\users\agne\downloads\graphics1cw\main.cpp(634): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\agne\downloads\graphics1cw\main.cpp(642): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(637): warning C4101: 'ndt': unreferenced local variable
+c:\users\agne\downloads\graphics1cw\main.cpp(635): warning C4101: 'fc': unreferenced local variable
+c:\users\agne\downloads\graphics1cw\main.cpp(709): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(729): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(839): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\agne\downloads\graphics1cw\main.cpp(845): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  firstOpenGL.vcxproj -> C:\Users\Agne\Downloads\Graphics1cw\Debug\Graphics1.exe
+  firstOpenGL.vcxproj -> C:\Users\Agne\Downloads\Graphics1cw\Debug\Graphics1.pdb (Full PDB)
